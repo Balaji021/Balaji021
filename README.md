@@ -9,7 +9,7 @@ Final Year Student @Dr.N.G.P. Institute of Technology
 
 
 ### 🌱 Current Focus
-Building projects using **Spring, Spring Boot, AI & ML, IoT, and React**  
+Building projects using **Spring, Spring Boot, AI & ML, IoT and React**  
 
 ### ⚡ Fun Fact
 I know **Karate** 🥋.
