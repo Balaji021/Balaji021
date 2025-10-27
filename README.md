@@ -6,7 +6,8 @@ Final Year Student @Dr.N.G.P. Institute of Technology
 
 
 
-
+### 🔭 Portfolio
+Check out my work: [Portfolio]https://balaji-techfolio.netlify.app/
 
 ### 🌱 Current Focus
 Building projects using **Spring, Spring Boot, AI & ML, IoT and React**  
